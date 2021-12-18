@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "61ae7e34405fe36b22e60fd6"
+  },
+  "firstName": "Peter",
+  "lastName": "Walsh",
+  "userName": "PeteyLumpkins",
+  "email": "peter.t.walsh@stonybrook.edu",
+  "passwordHash": "$2a$10$kejtFEXi5Rp7A9pDKdpw/uAqG9vmyMcH63.vhpDzF851gMhhNxU3m",
+  "createdAt": {
+    "$date": "2021-12-06T21:18:44.467Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T21:18:44.467Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ae7eef405fe36b22e61005"
+  },
+  "firstName": "Lucas",
+  "lastName": "Staats",
+  "userName": "LittleLukey123",
+  "email": "lucas.staats@stonybrook.edu",
+  "passwordHash": "$2a$10$LXiVd5Pxz7QadGhjJrmLye.yhKaeTZVXKg4QijjiR4ypUiXJqee0a",
+  "createdAt": {
+    "$date": "2021-12-06T21:21:51.050Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T21:21:51.050Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ae7ff8405fe36b22e61026"
+  },
+  "firstName": "Nick",
+  "lastName": "Urbin",
+  "userName": "EPICNSU",
+  "email": "nick.urbin@stonybrook.edu",
+  "passwordHash": "$2a$10$zdMhC1z.uFXx3iLdHcmnFeLK.AsMWHuUks7D1iAnaIkYBUgBu2H/2",
+  "createdAt": {
+    "$date": "2021-12-06T21:26:16.659Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T21:26:16.659Z"
+  },
+  "__v": 0
+}]

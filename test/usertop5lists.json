@@ -1,0 +1,226 @@
+[{
+  "_id": {
+    "$oid": "61ae7e38405fe36b22e60fda"
+  },
+  "items": [
+    "Python",
+    "React JS",
+    "Java",
+    "OCaml",
+    "C++"
+  ],
+  "userId": "61ae7e34405fe36b22e60fd6",
+  "author": "PeteyLumpkins",
+  "name": "Programming Languages",
+  "postId": "61ae886d405fe36b22e611b0",
+  "published": {
+    "$date": "2021-12-06T22:02:21.693Z"
+  },
+  "createdAt": {
+    "$date": "2021-12-06T21:18:48.101Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T22:02:21.694Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61ae7e38405fe36b22e60fde"
+  },
+  "items": [
+    "Cheese",
+    "Meat Lovers",
+    "Pepperoni",
+    "Buffalo Chicken",
+    "Veggie"
+  ],
+  "userId": "61ae7e34405fe36b22e60fd6",
+  "author": "PeteyLumpkins",
+  "name": "Pizza",
+  "postId": "61ae8880405fe36b22e611d1",
+  "published": {
+    "$date": "2021-12-06T22:02:40.480Z"
+  },
+  "createdAt": {
+    "$date": "2021-12-06T21:18:48.803Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T22:02:40.482Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61ae7e39405fe36b22e60fe2"
+  },
+  "items": [
+    "Ms Walsh's Chocolate Chip Cookies",
+    "Chocolate Chip",
+    "Sugar",
+    "Peanut Butter",
+    "Gingerbread"
+  ],
+  "userId": "61ae7e34405fe36b22e60fd6",
+  "author": "PeteyLumpkins",
+  "name": "Cookies",
+  "postId": "61ae8875405fe36b22e611bd",
+  "published": {
+    "$date": "2021-12-06T22:02:29.323Z"
+  },
+  "createdAt": {
+    "$date": "2021-12-06T21:18:49.337Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T22:02:29.369Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "61ae7ef1405fe36b22e61009"
+  },
+  "items": [
+    "Python",
+    "Java",
+    "C++",
+    "C",
+    "Javascript"
+  ],
+  "userId": "61ae7eef405fe36b22e61005",
+  "author": "LittleLukey123",
+  "name": "Programming Languages",
+  "postId": "61ae88b7405fe36b22e61230",
+  "published": {
+    "$date": "2021-12-06T22:03:35.135Z"
+  },
+  "createdAt": {
+    "$date": "2021-12-06T21:21:53.286Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T22:03:35.136Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61ae7ef1405fe36b22e6100d"
+  },
+  "items": [
+    "Meat Lovers",
+    "Buffalo Chicken",
+    "Pepperoni",
+    "Cheese",
+    "Veggie"
+  ],
+  "userId": "61ae7eef405fe36b22e61005",
+  "author": "LittleLukey123",
+  "name": "Pizza",
+  "postId": "61ae88b2405fe36b22e61222",
+  "published": {
+    "$date": "2021-12-06T22:03:30.876Z"
+  },
+  "createdAt": {
+    "$date": "2021-12-06T21:21:53.823Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T22:03:30.879Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61ae7ef2405fe36b22e61011"
+  },
+  "items": [
+    "Ms Walsh's Chocolate Chip Cookies",
+    "Peanut Butter Fudge",
+    "Christmas Cookies",
+    "Chocolate Chip",
+    "Sugar"
+  ],
+  "userId": "61ae7eef405fe36b22e61005",
+  "author": "LittleLukey123",
+  "name": "Cookies",
+  "postId": "61ae88ae405fe36b22e61215",
+  "published": {
+    "$date": "2021-12-06T22:03:26.243Z"
+  },
+  "createdAt": {
+    "$date": "2021-12-06T21:21:54.118Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T22:03:26.294Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "61ae8009405fe36b22e61032"
+  },
+  "items": [
+    "Buffalo Chicken",
+    "Extra Cheese",
+    "Meat Lovers",
+    "Pepperoni",
+    "Pineapple"
+  ],
+  "userId": "61ae7ff8405fe36b22e61026",
+  "author": "EPICNSU",
+  "name": "Pizza",
+  "postId": "61ae84c8405fe36b22e6106b",
+  "published": {
+    "$date": "2021-12-06T21:46:48.389Z"
+  },
+  "createdAt": {
+    "$date": "2021-12-06T21:26:33.962Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T21:46:48.390Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61ae8744405fe36b22e61139"
+  },
+  "items": [
+    "Ms Walsh's Chocolate Chip Cookies",
+    "Oatmeal Rasin",
+    "Chocolate Chip",
+    "Peanut Butter",
+    "Sugar"
+  ],
+  "userId": "61ae7ff8405fe36b22e61026",
+  "author": "EPICNSU",
+  "name": "Cookies",
+  "postId": "61ae8829405fe36b22e61171",
+  "published": {
+    "$date": "2021-12-06T22:01:13.514Z"
+  },
+  "createdAt": {
+    "$date": "2021-12-06T21:57:24.776Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T22:01:13.571Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61ae8836405fe36b22e6118f"
+  },
+  "items": [
+    "Java",
+    "Python",
+    "C++",
+    "C",
+    "Javascript"
+  ],
+  "userId": "61ae7ff8405fe36b22e61026",
+  "author": "EPICNSU",
+  "name": "Programming Languages",
+  "postId": "61ae8854405fe36b22e61195",
+  "published": {
+    "$date": "2021-12-06T22:01:56.178Z"
+  },
+  "createdAt": {
+    "$date": "2021-12-06T22:01:26.065Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T22:01:56.227Z"
+  },
+  "__v": 1
+}]

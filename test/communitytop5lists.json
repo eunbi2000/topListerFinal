@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "61ae84c8405fe36b22e61073"
+  },
+  "postId": "61ae84c8405fe36b22e61071",
+  "community": "PIZZA",
+  "lastUpdated": {
+    "$date": "2021-12-06T22:03:30.912Z"
+  },
+  "itemCounts": {
+    "Buffalo Chicken": 11,
+    "Extra Cheese": 4,
+    "Meat Lovers": 12,
+    "Pepperoni": 8,
+    "Pineapple": 1,
+    "Cheese": 7,
+    "Veggie": 2
+  },
+  "createdAt": {
+    "$date": "2021-12-06T21:46:48.439Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T22:03:30.913Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ae8829405fe36b22e61179"
+  },
+  "postId": "61ae8829405fe36b22e61177",
+  "community": "COOKIES",
+  "lastUpdated": {
+    "$date": "2021-12-06T22:03:26.278Z"
+  },
+  "itemCounts": {
+    "Ms Walsh's Chocolate Chip Cookies": 15,
+    "Oatmeal Rasin": 4,
+    "Chocolate Chip": 9,
+    "Peanut Butter": 4,
+    "Sugar": 5,
+    "Gingerbread": 1,
+    "Peanut Butter Fudge": 4,
+    "Christmas Cookies": 3
+  },
+  "createdAt": {
+    "$date": "2021-12-06T22:01:13.552Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T22:03:26.278Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ae8854405fe36b22e6119d"
+  },
+  "postId": "61ae8854405fe36b22e6119b",
+  "community": "PROGRAMMING LANGUAGES",
+  "lastUpdated": {
+    "$date": "2021-12-06T22:03:35.169Z"
+  },
+  "itemCounts": {
+    "Java": 12,
+    "Python": 14,
+    "C++": 7,
+    "C": 4,
+    "Javascript": 2,
+    "React JS": 4,
+    "OCaml": 2
+  },
+  "createdAt": {
+    "$date": "2021-12-06T22:01:56.213Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T22:03:35.170Z"
+  },
+  "__v": 0
+}]
